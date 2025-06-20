@@ -44,7 +44,8 @@ pip install -r requirements.txt
 
 3. Find your tidy CSVs  
 
-   `2_output/standardized_merged_by_company/<company>.csv`
+   * `2_output/standardized_merged_by_company/<company>.csv`
+   
 
 
 ## Notebook guide — what each stage does
