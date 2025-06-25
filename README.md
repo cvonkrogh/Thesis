@@ -12,10 +12,10 @@ This repo holds a self-contained notebook that links the ESRS tables we scraped 
 | Label | Dependent var(s) | Model | Key controls |
 |-------|------------------|-------|--------------|
 | *Logit-ESRS-<code>* | Single ESRS item (binary) | Logistic | Size, ROA, leverage, liquidity, m-cap, country FE, sector FE |
-| **NB-A** | ESG_count + E/S/G pillar counts | Neg-binomial | Fundamentals + **country** FE |
-| **NB-B** | same | Neg-binomial | Fundamentals + **sector** FE |
-| **NB-C** | same | Neg-binomial | Fundamentals + country + sector FE |
-| **NB-D** | same | Neg-binomial | High-emit dummy, Hofstede “femininity”, + country FE |
+| **A** | ESG_count + E/S/G pillar counts | Neg-binomial | Fundamentals + **country** FE |
+| **B** | same | Neg-binomial | Fundamentals + **sector** FE |
+| **C** | same | Neg-binomial | Fundamentals + country + sector FE |
+| **D** | same | Neg-binomial | High-emit dummy, Hofstede “femininity”, + country FE |
 
 Open the notebook and hit **Run All** to reproduce every table and figure.
 
