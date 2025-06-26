@@ -1,4 +1,4 @@
-# ESRS-Disclosure Depth E
+# ESRS-Disclosure Depth 
 
 This repo holds a self-contained notebook that links the ESRS tables we scraped from 100 EU annual reports with firm fundamentals from Yahoo Finance and then asks **what drives variation in ESG disclosure depth** in the first CSRD year.
 
