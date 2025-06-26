@@ -5,7 +5,7 @@ This repo holds a self-contained notebook that links the ESRS tables we scraped 
 | File | What it does |
 |------|--------------|
 | **Subquestion_regression_model.ipynb** | loads the ESRS × company matrix, merges fundamentals, and estimates all regressions |
-| **output/** | CSV files |
+| **output/** | CSV files, regression models |
 
 ## Models produced in the notebook / output
 
